@@ -1,7 +1,7 @@
 # configure aws provider 
 provider "aws" {
   region    = var.region
-  profile   = "custom"
+  profile   = "custom"    # your own custon profile with AWS credentials. 
 }
 
 # create vpc
