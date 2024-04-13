@@ -1,4 +1,6 @@
 # Terraform-Module-3-Tire-Application
+![image](https://github.com/anilbd2003/Terraform-Module-3-Tire-Application/assets/57112052/f6d509e4-a379-4ee4-af35-66570198657c)
+
 
 A)	Modules: 
 
